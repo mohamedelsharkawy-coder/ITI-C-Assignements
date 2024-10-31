@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729077117 source:c:\users\dell\desktop\iti\iti\day 2\lab\month_to_days\main.c
+	<stdio.h>
+	<stdlib.h>
+

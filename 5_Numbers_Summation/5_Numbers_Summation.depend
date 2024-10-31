@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729077620 source:c:\users\dell\desktop\iti\iti\day 2\lab\5_numbers_summation\main.c
+	<stdio.h>
+	<stdlib.h>
+

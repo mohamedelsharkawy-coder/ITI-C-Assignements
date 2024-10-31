@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729486566 source:c:\users\dell\desktop\iti\iti\day 5\lab\sub_menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

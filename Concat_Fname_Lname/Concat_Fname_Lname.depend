@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729291521 source:c:\users\dell\desktop\iti\iti\day 4\lab\concat_fname_lname\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

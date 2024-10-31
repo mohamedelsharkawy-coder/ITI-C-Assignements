@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729511792 source:c:\users\dell\desktop\iti\iti\day 6\labs\factorial_function\main.c
+	<stdio.h>
+	<stdlib.h>
+

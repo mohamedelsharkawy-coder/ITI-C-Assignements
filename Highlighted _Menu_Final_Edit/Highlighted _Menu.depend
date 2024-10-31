@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1729307389 source:c:\users\dell\desktop\iti\iti\day 3\lab\highlighted _menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1729307652 source:c:\users\dell\desktop\iti\iti\day 4\lab\highlighted _menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1729700767 source:c:\users\dell\desktop\iti\iti\intro to c\day 7\labs\highlighted _menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+

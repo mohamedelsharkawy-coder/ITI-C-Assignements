@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729083898 source:c:\users\dell\desktop\iti\iti\day 2\lab\reverse_integer\main.c
+	<stdio.h>
+	<stdlib.h>
+
