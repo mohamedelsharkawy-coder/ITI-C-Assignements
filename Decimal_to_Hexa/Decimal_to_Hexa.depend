@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1728994789 source:c:\users\dell\desktop\iti\sessions\day1\projects\decimal_to_hexa\main.c
+	<stdio.h>
+	<stdlib.h>
+

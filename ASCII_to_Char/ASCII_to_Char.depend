@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1728994467 source:c:\users\dell\desktop\iti\sessions\day1\projects\ascii_to_char\main.c
+	<stdio.h>
+	<stdlib.h>
+
